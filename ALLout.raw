@@ -1,0 +1,15 @@
+NAME = ALLout
+ROOT = iki1uc
+SYSTEM = 6E
+MODUL = ALLout
+DIM = O
+
+ROLLE = Ausleitung / Ausgang / Transfer
+FUNKTION = Übergabe aller Signale, Räume und META‑Impulse nach außen
+
+POSITION = O‑Ebene (Output)
+LINK = D5 (API) + FREQ (S) + GEO (R)
+TMP-LAEUFER = SYQ
+
+STATUS = STABIL
+READY = 100%
